@@ -1,0 +1,503 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 53,
+      "max": [
+        4.749765025735542e-09,
+        1.0,
+        1.0326344966888428
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9243975877761841
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 636,
+      "componentType": 5126,
+      "count": 53,
+      "max": [
+        3.5141107446179376e-07,
+        0.9717139601707458,
+        0.525603175163269
+      ],
+      "min": [
+        -0.9717139005661011,
+        -0.9717139005661011,
+        -0.3755607306957245
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 53,
+      "max": [
+        0.3704700171947479,
+        0.5167676210403442
+      ],
+      "min": [
+        0.009133853018283844,
+        0.033096276223659515
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 192,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1272,
+      "componentType": 5126,
+      "count": 106,
+      "max": [
+        1.0,
+        1.0,
+        1.0326344966888428
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2544,
+      "componentType": 5126,
+      "count": 106,
+      "max": [
+        0.9717141389846802,
+        0.9717139601707458,
+        0.5256030559539795
+      ],
+      "min": [
+        -0.9267979264259338,
+        -0.9717139005661011,
+        -0.9158278107643127
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 424,
+      "componentType": 5126,
+      "count": 106,
+      "max": [
+        0.9061324596405029,
+        0.50052809715271
+      ],
+      "min": [
+        0.46358591318130493,
+        0.030424367636442184
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 768,
+      "componentType": 5125,
+      "count": 474,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3816,
+      "componentType": 5126,
+      "count": 102,
+      "max": [
+        1.0436729192733765,
+        1.0436729192733765,
+        1.224380612373352
+      ],
+      "min": [
+        -1.0436726808547974,
+        -1.0436726808547974,
+        1.0326344966888428
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5040,
+      "componentType": 5126,
+      "count": 102,
+      "max": [
+        0.9717141389846802,
+        0.9717139601707458,
+        0.6856966614723206
+      ],
+      "min": [
+        -0.9717139005661011,
+        -0.9717139005661011,
+        -0.3311762511730194
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1272,
+      "componentType": 5126,
+      "count": 102,
+      "max": [
+        0.9061324596405029,
+        0.5167676210403442
+      ],
+      "min": [
+        0.012219250202178955,
+        0.50052809715271
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2664,
+      "componentType": 5125,
+      "count": 384,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6264,
+      "componentType": 5126,
+      "count": 32,
+      "max": [
+        1.0436729192733765,
+        1.0436729192733765,
+        1.224380612373352
+      ],
+      "min": [
+        -1.0436726808547974,
+        -1.0436726808547974,
+        1.224380612373352
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6648,
+      "componentType": 5126,
+      "count": 32,
+      "max": [
+        0.7278876900672913,
+        0.7278876900672913,
+        0.6856966614723206
+      ],
+      "min": [
+        -0.7278875708580017,
+        -0.7278875708580017,
+        0.6856960654258728
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2088,
+      "componentType": 5126,
+      "count": 32,
+      "max": [
+        0.48873692750930786,
+        1.0017340183258057
+      ],
+      "min": [
+        0.012138858437538147,
+        0.52513587474823
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4200,
+      "componentType": 5125,
+      "count": 90,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Justn2589 (https://sketchfab.com/Justn2589)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bloxy-cola-583b4f172f4b45c1b3675e8df7646bb9",
+      "title": "Bloxy Cola"
+    },
+    "generator": "Sketchfab-14.35.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4560,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2344,
+      "byteOffset": 4560,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7032,
+      "byteOffset": 6904,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 13936,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/side2_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "side2",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "side1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.303198,
+          0.303198,
+          0.303198,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9285636939459136
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "material_3",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Bloxy Cola_side2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bloxy Cola_side1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bloxy Cola_top_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bloxy Cola_cap_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Bloxy Cola.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        161.06109619140412,
+        -2.6240183215097017e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Bloxy Cola"
+    },
+    {
+      "mesh": 0,
+      "name": "Bloxy Cola_side2_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Bloxy Cola_side1_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Bloxy Cola_top_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Bloxy Cola_cap_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
